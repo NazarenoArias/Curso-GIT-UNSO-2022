@@ -12,5 +12,4 @@ Taborda Juan Pablo
 Laura Poggio
 Gonzalo Nahuel Duarte
 Tejerina Cristian
-Julieta Luiso
-Gaston Rossello
+Nazareno Arias
